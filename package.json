@@ -2,7 +2,7 @@
   "name": "react-input-autosize",
   "version": "0.2.3",
   "description": "Auto-resizing Input Component for React",
-  "main": "src/AutosizeInput.js",
+  "main": "src/AutosizeInput.jsx",
   "author": "Jed Watson",
   "license": "MIT",
   "repository": {
